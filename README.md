@@ -1,7 +1,8 @@
 # Stolpersteine-xml-csv
 
 
-**What the program is about**
+**What the program is about** <br/>
+
 Stolpersteine are memorial plaques in memory of WW2. There is a list of Stolpersteine from Wuppertal  ( Northrhine-Westfalia, Germany) with information on wikipedia. I extracted information fromn xml file and converted it to csv. These csv will support the Historia-App.
 
 
@@ -16,7 +17,7 @@ Historia-App-<br>
 https://historia-app.de
 
 
-**How the Code works**
+**How the Code works** <br/>
 This programs purpose is to convert raw xml-data to csv. The different information types (name, adress, birthdate etc)
 we need are not in different tags. Instead all the information is in one tag. The raw data we are working with 
 looks like this:
