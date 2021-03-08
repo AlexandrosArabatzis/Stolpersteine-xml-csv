@@ -62,5 +62,5 @@ Every block contains information about one individual. In each case we will extr
  - Date of Birth                           --> 7th line if possible,
    else from 5th line
 
-Because every line ist different, but still has some reoccuring patterns, we will use Regular Expressions to extract the
+Because every line is different, but still has some reoccuring patterns, we will use Regular Expressions to extract the
 relevant data. Then we will store the clean information in a DataFrame and export it to csv.
